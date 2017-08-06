@@ -1,0 +1,10 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "description": "express sandbox",
+  "author": "soarflat",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
